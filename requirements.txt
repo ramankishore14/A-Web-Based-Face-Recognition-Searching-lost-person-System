@@ -1,0 +1,6 @@
+Flask
+Flask-Mail
+opencv-python
+face_recognition
+numpy
+Pillow
